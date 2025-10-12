@@ -13,6 +13,8 @@
 #
 # s2= Student()
 
+print("current")
+
 
 
 
