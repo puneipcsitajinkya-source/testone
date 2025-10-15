@@ -1,6 +1,5 @@
 print("cd")
-a=100
-git
+a=10
 print('second')
 
 
